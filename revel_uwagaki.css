@@ -1071,6 +1071,10 @@ li:not(.nav-tavV2):not(.nav-tab--active)>.nav-tab__link:active {
     display: flex;
 }
 
+article.sidebar2 aside section div form .form__group--short-horizontal {
+    flex-wrap: flex;
+}
+
 .form__label {
     font-size: 11px
 }
@@ -1088,6 +1092,10 @@ li:not(.nav-tavV2):not(.nav-tab--active)>.nav-tab__link:active {
 .form__select {
     font-size: 16px;
     height: initial;
+    padding-top: 0.25em;
+}
+
+.form__text:hover {
     padding-top: 0.25em;
 }
 
