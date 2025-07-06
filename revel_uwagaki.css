@@ -1072,7 +1072,7 @@ li:not(.nav-tavV2):not(.nav-tab--active)>.nav-tab__link:active {
 }
 
 article.sidebar2 aside section div form .form__group--short-horizontal {
-    flex-wrap: flex;
+    flex-wrap: wrap;
 }
 
 .form__label {
