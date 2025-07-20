@@ -1207,6 +1207,12 @@ li.pagination__next {
     background-color: inherit
 }
 
+.torrent-search__results .panel__action-text {
+    padding: 0.25em 0.5em;
+    background-color: azure;
+    color: gray;
+}
+
 .torrent-search--list__row {
     grid-template-columns: 34px 60px 1fr 106px 30px 70px 38px 38px 38px 80px
 }
